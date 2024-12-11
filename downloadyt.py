@@ -2,7 +2,7 @@ import os
 import yt_dlp
 import shutil
 
-//CodeCatalyst By Faisal Tanweer
+# CodeCatalyst By Faisal Tanweer
 def check_ffmpeg():
     """
     Check if ffmpeg is installed and accessible.
